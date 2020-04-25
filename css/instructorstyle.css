@@ -1,0 +1,46 @@
+body{
+    background-color: beige
+}
+
+nav{
+    padding: 10px 0px 5px 12px;
+    background-color: grey;
+    height: 30px;
+    font-size: 1.2em;
+    word-spacing: 12px;
+    border-radius: 12px;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+
+a:hover{
+    color: black;
+    text-decoration: underline;
+}
+
+img{
+    width: 140px;
+    height: 140px;
+}
+table{
+    border-collapse: collapse;
+}
+
+
+
+.middlerow{
+    width: 250px;
+    font-size: 1.4em;
+    text-align: center;
+}
+
+button{
+    width: 100px;
+    height: 30px;
+    border-radius: 12px;
+    background-color: brown;
+    color: white;
+
+}

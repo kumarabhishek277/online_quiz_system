@@ -1,0 +1,65 @@
+body
+{
+    background-color: blue;
+}
+
+.container{
+    margin-left: 20%;
+    background-color: yellow;
+    width: 60%;
+    border-radius: 12px;
+}
+
+input[type=email], input[type=password], input[type=text], input[type=date],input[type=number],input[type=submit],select{
+    width: 70%;
+    height: 30px;
+    border: 2px solid red;
+    border-radius: 10px;
+    padding-left: 12px;
+}
+input:focus, textarea:focus
+{
+    background-color: burlywood;
+    color: blueviolet;
+}
+textarea{
+    border: 2px solid red;
+    border-radius: 10px;
+}
+
+p{
+    font-size: 1.7em;
+}
+
+button,input[type=reset]
+{
+    margin-top: 22px;
+    margin-left: 10px;
+    background-color: #4CAF50;
+    padding-left: 25px;
+    width: 90%;
+    height: 35px;
+    border: none;
+    color: white;
+    text-decoration: none;
+    cursor: pointer;
+    border-radius: 12px;
+}
+
+table{
+    margin-top: -50px;
+    margin-left: 9%;
+}
+td{
+    font-size: 1.3em;
+    height: 9px;
+    padding-bottom: 20px;
+    margin-bottom: 100px;
+    width: 1500px;
+}
+
+span
+{
+    color: red;
+    font-size: 0.9em;
+}

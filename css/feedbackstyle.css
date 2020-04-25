@@ -1,0 +1,27 @@
+ div{
+            width: 80%;
+            margin: auto;
+            margin-top: 6%;
+}
+form{
+        margin: auto;
+        width: 50%;
+}
+textarea{
+            border: 2px solid yellow;
+            border-radius: 10px;
+}
+button
+{
+    margin-top: 22px;
+    margin-left: 20px;
+    background-color: #4CAF50;
+    padding-left: 25px;
+    width: 50%;
+    height: 35px;
+    border: none;
+    color: white;
+    text-decoration: none;
+    cursor: pointer;
+    border-radius: 12px;
+}

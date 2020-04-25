@@ -1,0 +1,59 @@
+body{
+
+    background-color: burlywood;
+	font-family: sans-serif;
+}
+
+nav{
+    padding: 10px 0px 5px 12px;
+    background-color: grey;
+    height: 30px;
+    font-size: 1.2em;
+    word-spacing: 12px;
+    border-radius: 12px;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+
+a:hover{
+    color: black;
+    text-decoration: underline;
+}
+#head1{
+
+    padding-top: 100px;
+    padding-left: 40px;
+    margin: 20px auto;
+    height: 150px;
+    max-width: 700px;
+    border-radius: 10px;
+}
+.body{
+	margin: 50px auto;
+	background: grey;
+}
+
+.intro{
+    padding: 12px;
+    text-align: justify;
+     max-width: 720px;
+    margin: 20px auto;
+    border: 2px solid red;
+    border-radius: 12px;
+}
+
+
+
+hr{
+    border: 0;
+    height: 1px;
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));
+}
+
+.rightFloat{
+    float: right;
+    padding-right: 20px;
+}
+
